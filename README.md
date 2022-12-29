@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @azgk
-- 👀 I’m interested in learning (e.g. coding, guitar, Nepali). I love bulldogs. 
+- 👀 I’m interested in learning (e.g. coding, guitar, language). I love bulldogs. 
 - 💞️ I’m looking to collaborate on python projects
 
 <!---
