@@ -1,4 +1,4 @@
-- 👋 I am looking for job as a software engineer. 
+- 👋 Hi! I am currently looking for a job in data science.  
 - 🤓 Proficient in Python and SQL. I am familiar with HTML, CSS, JavaScript. 
 - 👀 Interested in learning coding, guitar, language. I love bulldogs. 
 
